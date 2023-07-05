@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "adc1bf371532e78d",
+    "type": "split",
+    "children": [
+      {
+        "id": "15ddbec1c46d24e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "300ee287b0ba883f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 36.465982033650334,
+                  "y": 59.559604045366754,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "523cc555e759fab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "11e5159de3c2891b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a69c0d9904d3747e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6760d7198d9d690",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4819056ef063ed3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "8bf62ae42e41822b",
+    "type": "split",
+    "children": [
+      {
+        "id": "067bb1aae62e80f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b241d38629dc219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e190912cf75e1f11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c2970377019d6b81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "756b3a243d4feb29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 534.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create Notion-Like table": false
+    }
+  },
+  "active": "300ee287b0ba883f",
+  "lastOpenFiles": [
+    "02 BINUS/0201 CS/Discrete Mathematics/Overview.md",
+    "Untitled.canvas",
+    "04 Udemy/Amazon Connect/Contact Flows.md",
+    "04 Udemy/Amazon Connect/Sample Infrastructure.md",
+    "03 Startup/Car Dealership.md",
+    "02 BINUS/0201 CS/Course Structure.md",
+    "Hello.md",
+    "02 BINUS/0201 CS/Index.md",
+    "02 BINUS/0201 CS/Discrete Mathematics",
+    "02 BINUS/0201 CS/Discrete Mathematics/Resources/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf",
+    "02 BINUS/0201 CS/Discrete Mathematics/Resources",
+    "99 Misc/Poe 101/Prompts.md",
+    "99 Misc/Content Publishing Best Practices.md",
+    "04 Udemy/Tiktok Marketing/Index Content.md",
+    "04 Udemy/Tiktok Marketing/Audience Behavior.md",
+    "04 Udemy/Tiktok Marketing/How Tiktok Works.md",
+    "---------.md",
+    "02 BINUS/0201 CS",
+    "02 BINUS",
+    "01 LLA",
+    "01 LLA/0101 Chemistry/RP Presentation/Cavitation Cavity.md",
+    "01 LLA/0101 Chemistry/RP Presentation/Research Paper 2.md",
+    "03 Startup",
+    "01 LLA/Artist Statement.md",
+    "99 Misc/Poe 101",
+    "01 LLA/Liger Tribute 2 Min.md",
+    "04 Udemy/Amazon Connect/Images/Pasted image 20230403103035.png",
+    "01 LLA/0101 Chemistry/RP Presentation/RP2.pdf",
+    "IP 005/Visual - Buying List.table",
+    "work/README.md",
+    "work/dashboard-software.md",
+    "04 Udemy/Amazon Connect/Images/Pasted image 20230403135104.png",
+    "04 Udemy/Amazon Connect/Images/Pasted image 20230403140435.png",
+    "04 Udemy/Amazon Connect/Images/Pasted image 20230403133450.png",
+    "04 Udemy/Amazon Connect/Images/Pasted image 20230403133129.png",
+    "04 Udemy/Amazon Connect/Images/Pasted image 20230403121647.png",
+    "work/business-model-canvas.excalidraw.md",
+    "work/business-content.md",
+    "work/ivr-project/aws.md",
+    "work/website.md",
+    "IP 005/Untitled.md",
+    "04 Udemy/Tiktok Marketing/Images/Pasted image 20230515231816.png",
+    "UC 001/Domain Names & Web Hosting/Domain Names.md"
+  ]
+}
