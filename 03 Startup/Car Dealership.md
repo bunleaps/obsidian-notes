@@ -25,9 +25,9 @@
 
 ## Task
 - [x] Possible Responds
-- [ ] Understand Car Spec & Price
-	- [ ] Easier for when customer ask about parts --> for redirecting 
-- [ ] Setup assistant accounts
-- [ ] Setup Amazon Lex
-- [ ] Connect to Amazon Connect
-- [ ] Wired Lex
+- [x] Understand Car Spec & Price
+	- [x] Easier for when customer ask about parts --> for redirecting 
+- [x] Setup assistant accounts
+- [x] Setup Amazon Lex
+- [x] Connect to Amazon Connect
+- [x] Wired Lex
