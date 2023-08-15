@@ -1,3 +1,5 @@
+# Stock Study
+
 Stock market investing can seem like a daunting task for young adults who have little money to invest. However, when done correctly, investing in the stock market can be a great way to grow your wealth.
 
 In this article, we will explain the basics of the stock market, including what stocks are, why companies sell stocks, how stock prices fluctuate, and why you should invest. We will also provide tips on how to get started investing in the stock market.
@@ -31,3 +33,6 @@ Once you have opened a brokerage account and funded it with money, you can start
 ### Conclusion
 
 Investing in the stock market can be a great way to grow your wealth, but it is important to understand the risks involved before you start investing. Be sure to do your research and only invest money that you can afford to lose.
+
+
+## How to Invest

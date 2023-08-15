@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c894615734f7c1cf",
+        "id": "5afa37ba1378b860",
         "type": "tabs",
         "children": [
           {
-            "id": "a858c2acb314622a",
+            "id": "43c4a36bdc97e21c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "02 BINUS/0201 CS/Scientific Computing/S01/Introduction to Scientific Computing.pdf"
+              }
+            }
+          },
+          {
+            "id": "13da14e18c36940b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 BINUS/0201 CS/Scientific Computing/Resources/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf"
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 BINUS/0201 CS/Scientific Computing/Resources/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 BINUS/0201 CS/Scientific Computing/Resources/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 BINUS/0201 CS/Scientific Computing/Resources/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf"
+              }
             }
           }
         ],
@@ -139,43 +156,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create new loom": false
+      "notion-like-tables:Create new loom": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a69c0d9904d3747e",
+  "active": "13da14e18c36940b",
   "lastOpenFiles": [
-    "01 LLA/0101 Chemistry/RP Presentation/Research Paper 2.md",
-    "03 Startup/Car Dealership.md",
-    "04 Udemy/Amazon Connect/Contact Flows.md",
-    "04 Udemy/Amazon Connect/Sample Infrastructure.md",
+    "02 BINUS/0201 CS/Scientific Computing/S01/Introduction to Scientific Computing.pdf",
+    "02 BINUS/0201 CS/Scientific Computing/Resources/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf",
+    "Task.md",
+    "Financial Tracker.md",
+    "Hello.md",
+    "02 BINUS/0201 CS/Scientific Computing/S01/Introduction to Scientific Computing.md",
+    "02 BINUS/0201 CS/Scientific Computing/Resources",
+    "02 BINUS/0201 CS/Scientific Computing/S01",
     "99 Misc/Stocks.md",
+    "02 BINUS/0201 CS/Character Building - Pancasila",
+    "02 BINUS/0201 CS/Human & Computer Interaction",
+    "02 BINUS/0201 CS/Algorithm & Programming",
+    "02 BINUS/0201 CS/Scientific Computing",
+    "99 Misc/Content Publishing Best Practices.md",
+    "99 Misc/Poe 101/Prompts.md",
+    "03 Startup/Car Dealership.md",
+    "02 BINUS/0201 CS/Discrete Mathematics/Resources/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf",
+    "02 BINUS/0201 CS/Discrete Mathematics/Overview.md",
+    "02 BINUS/0201 CS/Course Structure.md",
+    "04 Udemy/Amazon Connect/Contact Flows.md",
+    "01 LLA/0101 Chemistry/RP Presentation/Research Paper 2.md",
+    "04 Udemy/Amazon Connect/Sample Infrastructure.md",
     "Excalidraw/Drawing 2023-07-13 00.33.10.excalidraw.md",
     "Excalidraw",
-    "02 BINUS/0201 CS/Discrete Mathematics/Overview.md",
     "Untitled.canvas",
-    "02 BINUS/0201 CS/Course Structure.md",
-    "Hello.md",
     "02 BINUS/0201 CS/Index.md",
-    "02 BINUS/0201 CS/Discrete Mathematics",
-    "02 BINUS/0201 CS/Discrete Mathematics/Resources/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf",
-    "02 BINUS/0201 CS/Discrete Mathematics/Resources",
-    "99 Misc/Poe 101/Prompts.md",
-    "99 Misc/Content Publishing Best Practices.md",
     "04 Udemy/Tiktok Marketing/Index Content.md",
     "04 Udemy/Tiktok Marketing/Audience Behavior.md",
     "04 Udemy/Tiktok Marketing/How Tiktok Works.md",
     "---------.md",
-    "02 BINUS/0201 CS",
-    "02 BINUS",
-    "01 LLA",
     "01 LLA/0101 Chemistry/RP Presentation/Cavitation Cavity.md",
-    "03 Startup",
     "01 LLA/Artist Statement.md",
-    "99 Misc/Poe 101",
     "01 LLA/Liger Tribute 2 Min.md",
     "04 Udemy/Amazon Connect/Images/Pasted image 20230403103035.png",
-    "01 LLA/0101 Chemistry/RP Presentation/RP2.pdf",
     "work/README.md",
     "work/dashboard-software.md",
     "04 Udemy/Amazon Connect/Images/Pasted image 20230403135104.png",
@@ -184,10 +204,6 @@
     "04 Udemy/Amazon Connect/Images/Pasted image 20230403133129.png",
     "04 Udemy/Amazon Connect/Images/Pasted image 20230403121647.png",
     "work/business-model-canvas.excalidraw.md",
-    "work/business-content.md",
-    "work/ivr-project/aws.md",
-    "work/website.md",
-    "IP 005/Untitled.md",
     "04 Udemy/Tiktok Marketing/Images/Pasted image 20230515231816.png"
   ]
 }

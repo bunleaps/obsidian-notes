@@ -1,3 +1,7 @@
+---
+banner: "https://blog-media.byjusfutureschool.com/bfs-blog/2022/09/21090501/Article-Page-86.png"
+---
+
 # DISCRETE MATHEMATICS (4 CREDITS)
 #MATH6025001 #Discrete_Mathematics #MATH 
 
@@ -18,3 +22,7 @@ On successful of this Course, students will be able to: Evaluate the logic of co
 9. Tree
 10. Finite State Automata
 
+## Resources:
+
+1. [Discrete Mathematics and Its Applications](Resources/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf)
+2. 
